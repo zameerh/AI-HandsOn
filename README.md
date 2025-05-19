@@ -1,2 +1,2 @@
 # AI-HandsOn
-AI PoCs
+AI Proof Of Concepts
